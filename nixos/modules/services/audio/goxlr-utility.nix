@@ -44,5 +44,5 @@ with lib;
         ];
     };
 
-  meta.maintainers = with maintainers; [ errnoh ];
+  meta.maintainers = with maintainers; [ errnoh sporesirius ];
 }

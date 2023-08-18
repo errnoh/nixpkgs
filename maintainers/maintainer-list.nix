@@ -15966,6 +15966,15 @@
     githubId = 950799;
     name = "Tomasz Czyż";
   };
+  sporesirius = {
+    email = "sporesirius+git+public@pm.me";
+    github "sporesirius";
+    githubId = 38188453;
+    name = "Sporesirius";
+    keys = [{
+      fingerprint = "A8AC 6309 3B6D 63AF EA73  C644 09E2 B4ED 8D34 9729";
+    }];
+  };
   sprock = {
     email = "rmason@mun.ca";
     github = "sprock";
