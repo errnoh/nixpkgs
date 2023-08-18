@@ -65,6 +65,6 @@ rustPlatform.buildRustPackage rec {
     description = "An unofficial GoXLR App replacement for Linux, Windows and MacOS";
     homepage = "https://github.com/GoXLR-on-Linux/goxlr-utility";
     license = licenses.mit;
-    maintainers = [ errnoh ];
+    maintainers = [ errnoh sporesirius ];
   };
 }
