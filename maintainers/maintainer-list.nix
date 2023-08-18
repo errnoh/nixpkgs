@@ -15968,7 +15968,7 @@
   };
   sporesirius = {
     email = "sporesirius+git+public@pm.me";
-    github "sporesirius";
+    github = "sporesirius";
     githubId = 38188453;
     name = "Sporesirius";
     keys = [{
